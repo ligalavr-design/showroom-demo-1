@@ -29,7 +29,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--ink);
-  font-family: "Heebo", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  font-family: "Rubik", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
   line-height: 1.6;
   font-size: 17px;
 }
