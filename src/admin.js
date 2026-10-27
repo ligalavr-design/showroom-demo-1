@@ -4,13 +4,13 @@ const SEGMENTS = {
   "led-indoor": "מסכי LED לפנים",
   "led-outdoor": "מסכי LED לחוץ",
   lcd: "מסכי LCD",
-  touch: "מגע ולוחות אינטראקטיביים",
-  ads: "מסכי פרסום עם אפליקציה",
+  touch: "מסכי מגע אינטראקטיביים",
+  ads: "מסכי פרסום (שילוט דיגיטלי) עם אפליקציה",
   unsure: "עוד לא בטוח",
 };
 const SAMPLES = [
   { name: "דוגמה: משה לוי", phone: "050-0000001", segment: "led-indoor", message: "דוגמה בלבד. מחפש מסך לחדר ישיבות.", minutesAgo: 20 },
-  { name: "דוגמה: דנה שרון", phone: "050-0000002", segment: "touch", message: "דוגמה בלבד. לוח אינטראקטיבי לכיתה.", minutesAgo: 140 },
+  { name: "דוגמה: דנה שרון", phone: "050-0000002", segment: "touch", message: "דוגמה בלבד. מסך מגע אינטראקטיבי לכיתה.", minutesAgo: 140 },
   { name: "דוגמה: יוסי אברהם", phone: "050-0000003", segment: "ads", message: "", minutesAgo: 1500 },
 ];
 
