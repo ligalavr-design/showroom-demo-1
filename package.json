@@ -1,0 +1,9 @@
+{
+  "name": "showroom-demo-1",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "A static demo page. Fake data only. The inquiry form is mocked in the browser.",
+  "scripts": { "build": "vite build" },
+  "devDependencies": { "vite": "^7.3.2" }
+}
